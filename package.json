@@ -1,0 +1,19 @@
+{
+  "name": "timezone-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timezone_converter.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon aap.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
